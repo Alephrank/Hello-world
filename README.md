@@ -2,4 +2,4 @@
 Test
 
 ver1
-ver2 anotherBranch
+ver2
