@@ -7,9 +7,6 @@ public static void main(String[] args) {
 
 }
 
-This is a line.
-many empty line below
-
 
 
 ```
